@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0b1220&height=220&section=header&text=Bhanu&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Civil%20Engineering%20Student&descAlignY=65&descSize=22" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0b1220&height=220&section=header&text=Bhanu&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Civil%20Engineering&descAlignY=65&descSize=22" width="100%" />
 
 <a href="https://github.com/USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Civil+Engineering+%40+NIT+Patna;Crack+Detection+in+Concrete+using+CNN;BIM-based+Clash+Detection;Graphic+Designer+%7C+Structural+Engineering+Enthusiast" alt="Typing SVG" />
