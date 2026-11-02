@@ -106,8 +106,16 @@ const bhanu = {
 
 ## 🤝 Connect
 
-<!-- Add LinkedIn / Email / Portfolio badges here once you share the links -->
+<div align="center">
 
+<a href="https://www.linkedin.com/in/bhanuupriya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&color=0b1220&labelColor=0b1220&label=&message=LinkedIn" />
+</a>
+<a href="bhanupriyabnk2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
+</a>
+
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0b1220&height=120&section=footer" width="100%" />
