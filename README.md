@@ -22,14 +22,15 @@
 
 ```typescript
 const bhanu = {
-  title: "Final-year B.Tech Civil Engineering Student @ NIT Patna",
-  stack: ["Python", "CNN / Deep Learning", "BIM Tools", "Graphic Design"],
+  title: "Final-year B.Tech Civil Engineering  @ NIT Patna",
+  stack: ["Python", "SQL" , "CNN / Deep Learning", "BIM Tools", "Graphic Design"],
   launchedProjects: [
     "Crack Detection in Concrete using CNN",
     "Clash Detection between Substructure and Utility Elements using BIM Tools",
+    "MARS-Based Settlement Prediction of Shallow Foundations on Cohesionless Soil",
   ],
   certifications: [], // add yours here
-  status: "Final year | Preparing for ESE | Interned at NBCC (India) Limited",
+  status: "Final year | Interned at NBCC (India) Limited",
   openTo: ["Internships", "Full-time roles", "Structural Engineering (M.Tech) pathways"],
 };
 ```
@@ -52,7 +53,7 @@ const bhanu = {
 
 🔗 [Code](https://github.com/USERNAME/crack-detection-cnn)
 
-### 🏗️ BIM-based Clash Detection (Substructure vs Utilities)
+### 🏗️ MARS-Based Settlement Prediction of Shallow Foundations on Cohesionless Soil
 
 <a href="https://github.com/USERNAME/bim-clash-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=bim-clash-detection&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" />
